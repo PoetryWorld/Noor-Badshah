@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+	
+		
+		
+
+
 #!/usr/bin/python2
 #coding=utf-8
 
@@ -72,8 +85,8 @@ logo='''
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-\033[1;91m☞ Auther     : B4_BALOCH_M4_MASTER
-\033[1;92m☞ WhatsApp   : 03232132362
+\033[1;91m☞ Auther     : B4_NOOR_M4_MASTER
+\033[1;92m☞ WhatsApp   : 03017942852
 \033[1;95m☞ YouTube    : https://youtube.com/channel/UCRnpWUOCz3Sb1RAX3GK4r0A
 
 \033[1;93m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -164,8 +177,8 @@ def mb():
 	elif bm =='1':
 		pak()
 	elif bm =='2':
-	    os.system('rm -rf $HOME/B4_BALOCH')
-	    os.system('cd $HOME && git clone https://github.com/shabirbaloch125/Baloch')
+	    os.system('rm -rf $HOME/B4_NOOR')
+	    os.system('cd $HOME && git clone https://github.com/PoetryWorld/Noor-Badshah.git  ')
 	    cb()
 	    print (logo)
 	    psb('☆10%')
@@ -179,15 +192,15 @@ def mb():
 	    psb('☆☆☆☆☆☆☆☆☆90%')
 	    psb('☆☆☆☆☆☆☆☆☆☆100%')
 	    psb('Frends login new Account✓')
-	    psb('WhatsApp Num 03232132362✓')
-	    psb('WellCome To B4_BALOCH')
-	    psb('Congratulations B4_BALOCH Tool Has Been Updated Successfully')
+	    psb('WhatsApp Num 03017942852✓')
+	    psb('WellCome To B4_NOOR')
+	    psb('Congratulations B4_NOOR Tool Has Been Updated Successfully')
 	    psb('🔓User Name☆ 786786✓')
 	    psb('🔓Password ☆ 786786✓')
 	    psb('Subscrib My Youtube Channel B4 BALOCH M4 MASTER✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
-	    os.system('cd $HOME/B4_BALOCH && python2 B4.py')
+	    os.system('cd $HOME/B4_NOOR&& python2 B4.py')
 	elif bm =='3':
 	    os.system('xdg-open https://chat.whatsapp.com/BcmyQPBz6lz3t6oVN8wLoi')
 	    menu()
@@ -361,3 +374,42 @@ def pb():
 if __name__=='__main__':
     login()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+	
+			
+	
